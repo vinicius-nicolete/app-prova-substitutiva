@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833351845464",
+    "project_id": "app-prova-substitutiva",
+    "storage_bucket": "app-prova-substitutiva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833351845464:android:b6e60ef10b26bf64336c2d",
+        "android_client_info": {
+          "package_name": "com.example.app_prova_substitutiva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833351845464-m9g9d2ofpvks2pic2ecb14hetsqsqgik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxr6Ng_eZDBNzSEJ08nhYkUxIe14fw2oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833351845464-m9g9d2ofpvks2pic2ecb14hetsqsqgik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
